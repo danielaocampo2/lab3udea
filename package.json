@@ -1,0 +1,28 @@
+{
+  "name": "lab3udea",
+  "version": "1.0.0",
+  "description": "Mi calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielaocampo2/lab3udea.git"
+  },
+  "keywords": [
+    "Sumar",
+    "Restar",
+    "Multiplicar",
+    "Dividir"
+  ],
+  "author": "Daniela Ocampo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielaocampo2/lab3udea/issues"
+  },
+  "homepage": "https://github.com/danielaocampo2/lab3udea#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
