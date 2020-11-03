@@ -1,4 +1,5 @@
 # lab3udea
+[![Build Status](https://travis-ci.org/danielaocampo2/lab3udea.svg?branch=main)](https://travis-ci.org/danielaocampo2/lab3udea)
 
 Implementation of a Simple Calculator with the next operations:
 * Add* Minus
