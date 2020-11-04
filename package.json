@@ -4,9 +4,7 @@
     "description": "Mi calculadora",
     "main": "index.js",
     "scripts": {
-        "test": "mocha",
-        "cover": "istanbul cover ./node_modules/mocha/bin/_mocha",
-        "coveralls": "npm run cover -- --report lcovonly && cat ./coverage/lcov.info | coveralls"
+        "test": "mocha"
     },
     "repository": {
         "type": "git",
@@ -28,7 +26,6 @@
         "readline-sync": "^1.4.10"
     },
     "devDependencies": {
-        "istanbul": "^1.1.0-alpha.1",
         "chai": "^4.2.0",
         "mocha": "^8.2.1"
     }
