@@ -25,10 +25,11 @@
     },
     "homepage": "https://github.com/danielaocampo2/lab3udea#readme",
     "dependencies": {
-        "readline-sync": "^1.4.10"
-    },
-    "devDependencies": {
+        "readline-sync": "^1.4.10",
         "chai": "^4.2.0",
         "mocha": "^8.2.1"
+    },
+    "devDependencies": {
+        "istanbul": "^1.1.0-alpha.1"
     }
 }
